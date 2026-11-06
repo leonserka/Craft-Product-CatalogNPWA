@@ -48,10 +48,10 @@ No application source code, dependency manifests, or startup commands are availa
 
 ## Current Files
 
-| File | Description |
-| --- | --- |
+| File                      | Description                                   |
+| ------------------------- | --------------------------------------------- |
 | `NPWA_2026_projekt.pdf` | Original assignment specification in Croatian |
-| `README.md` | English project overview and requirements |
+| `README.md`             | English project overview and requirements     |
 
 ## Assessment
 
